@@ -1,5 +1,0 @@
-/mnt/build/CMakeFiles/exercise9.dir
-/mnt/build/CMakeFiles/edit_cache.dir
-/mnt/build/CMakeFiles/rebuild_cache.dir
-/mnt/build/CMakeFiles/exercise9_autogen_timestamp_deps.dir
-/mnt/build/CMakeFiles/exercise9_autogen.dir
